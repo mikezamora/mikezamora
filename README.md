@@ -1,3 +1,4 @@
+<!--
 <h2>Hey 👋, I'm <a href="#">Shmor3</a></h2>
 
 <h2>⚡️ A Few Quick Facts</h2>
@@ -7,7 +8,7 @@
 <li>🧐 Learning about <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Some of my projects are available on <a href="https://github.com/shmor3">Github</a>.</li>
 </ul>
-<!--
+
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
